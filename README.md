@@ -18,7 +18,7 @@
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios-filled/500/000000/unity.png" alt="unity" width="36" height="36"/> </a>
+<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios-filled/50/000000/unity.png" alt="unity" width="36" height="36"/> </a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/96/null/c-sharp-logo.png" alt="C Sharp" width="36" height="36"/> </a>
 
 </p>
