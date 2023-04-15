@@ -29,22 +29,3 @@
 <a href="https://discord.com/users/matic031" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 </p>
 
-<details>
-  <summary>General Stats</summary>
-  
-  <a href="http://www.github.com/matic031"><img src="https://github-readme-stats.vercel.app/api?username=matic031&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="matic031's GitHub stats" /></a>
-
-<div style="display:flex;">
-<div>
-<a href="http://www.github.com/matic031"><img src="https://github-readme-streak-stats.herokuapp.com/?user=matic031&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-</div>
-
-<div>
-<a href="https://github.com/matic031" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matic031&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-</div>
- 
-<div>
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/matic031/portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=matic031&repo=portfolio-template&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/matic031/quiz-app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=matic031&repo=quiz-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-</details>
