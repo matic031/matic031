@@ -5,7 +5,7 @@
 - 🖥️  Vist my [Portfolio](https://my-portfolio-beige-five.vercel.app/)
 - 💬 Ask me about **_Unity_** & **_JavaScript_**
 - ✉️  You can reach me by [email](mailto:majericmatic@gmail.com)
-- 🧠  I'm learning Node JS
+- 🧠  I'm learning Node JS & Unity
 
 <h3 align="left">Skills & Tools:</h3>
 <p align="left"> 
