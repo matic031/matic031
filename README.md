@@ -2,7 +2,6 @@
 
 - 👨‍💻  Programmer / Developer
 - 🌍  Slovenia
-- 🖥️  Vist my [Portfolio](https://my-portfolio-beige-five.vercel.app/)
 - ✉️  You can reach me by [email](mailto:majericmatic@gmail.com)
 
 <p align="left"> 
